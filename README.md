@@ -1,4 +1,4 @@
-Online Book Review Application
+📚 Online Book Review Application
 An Express.js-based RESTful API for managing books, users, and reviews in an online book review system. Built with modular routes, in-memory data storage, JWT authentication, and session management.
 
 🚀 Features
